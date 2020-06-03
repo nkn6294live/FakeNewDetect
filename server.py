@@ -26,4 +26,4 @@ def index(inputText):
 
 if __name__ == '__main__':
     graphSearch = GraphSearch()
-    run(host='localhost', port=18080)
+    run(host='10.2.64.207', port=18080)

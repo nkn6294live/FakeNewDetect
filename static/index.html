@@ -73,7 +73,13 @@
                 if (error) {
                     alert('Error:')
                 } else {
-                    $("#output").text(JSON.stringify(data, "", 4));
+                    details = data[0];
+                    triple = data[1]
+                    combine = data[2]
+                    // combine = (Array.isArray(data) && data.length > 0) ? data[data.length - 1] : 0;
+
+                    output_text = `\n${JSON.stringify(data, "", 4)}`
+                    $("#output").text(`Score: ${combine} \nTriple: ${JSON.stringify(triple)} \nDetail: ${JSON.stringify(details, "", 4)}`);
                 }
             })
         });

@@ -209,7 +209,7 @@ class GraphSearch:
         print(f"\n\n=========={method_tag}============\n\n")
         print("Query:", query)
         print("Results:", results)
-        return results
+        return (results, extract_info)
 
     def get_sentences_from_query(self, query):
         method_tag = "get_sentences_from_query"
@@ -310,7 +310,9 @@ class GraphSearch:
     def process_text(self, input):
         print("\n\n======================\n\n")
         print("Input:", input)
-        extract_information_datas = self.extract_information(input)
+        extract_information_results = self.extract_information(input)
+        extract_information_datas = extract_information_results[0]
+        extract_info = extract_information_results[1]
         origins = []
         weights = []
         results = []
@@ -368,7 +370,7 @@ class GraphSearch:
         print(f"\n[COMBINE]:{combine}\n")
         print(f"\n\n==========END============\n\n")
         output = list(zip(origins, weights, results))
-        return (output, combine)
+        return (output, extract_info, combine)
 
 if __name__ == '__main__':
     print(f'GraphSearch')

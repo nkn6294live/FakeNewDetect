@@ -85,7 +85,7 @@ class ExtractInformation:
                         text1 = self.nlpSpacy(relation1)
                         text2 = self.nlpSpacy(relation2)
                         if (text1.similarity(text2) > 0.6):
-                            tripleTemps.remove(tripleStanford)
+                            # tripleTemps.remove(tripleStanford)
                             break
 
         triples = tripleTemps + tripleSpacys
