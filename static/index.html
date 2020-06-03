@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+            integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"
+            integrity="sha384-1CmrxMRARb6aLqgBO7yyAxTOQE2AKb9GfXnEo760AUcUmFx3ibVJJAzGytlQcNXd"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <form id="form_check_text">
+        <div class="form-group">
+            <label for="inputText">Input</label>
+            <input type="text"
+                   class="form-control"
+                   id="inputText"
+                   aria-describedby="input_text"
+                   placeholder="Enter input text"
+                   name="inputText"
+            />
+        </div>
+        <button type="button" id="check_text_submit_button" class="btn btn-primary">Submit</button>
+    </form>
+    <div class="form-group">
+      <label for="output">Output:</label>
+      <textarea class="form-control" rows="10" id="output" placeholder="Output will show at here"></textarea>
+    </div>
+</div>
+<script>
+    function checkText(data, cb) {
+        if (!cb) {
+            cb = function(error, value) {
+                if (error) {
+                    alert('Error');
+                    return;
+                }
+                $("#output").value(JSON.stringify(value, "", 4));
+            }
+        }
+        let url = "/api/fakenew/check"
+        $.ajax({
+            type: "POST",
+            url: url,
+            data: data,
+            async: true,
+            success: function(value) {
+                cb(null, value)
+            },
+            error: function(error) {
+                cb(error, null)
+            }
+        })
+    }
+
+    function onSubmitButton(e) {
+        e.preventDefault();
+        checkText
+    }
+    $(document).ready(function(){
+        $("#check_text_submit_button").click(function(e) {
+            let data = $("#form_check_text").serialize()
+            checkText(data, function(error, data) {
+                if (error) {
+                    alert('Error:')
+                } else {
+                    $("#output").text(JSON.stringify(data, "", 4));
+                }
+            })
+        });
+    }())
+</script>
+</body>
+</html>

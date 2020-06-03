@@ -1,0 +1,256 @@
+UNRegion,UNRegionCode,UNSubRegion,UNSubRegionCode,UNIntermediateRegion,UNIntermediateRegionCode,iso3
+Africa,m49:2,Northern Africa,m49:15,,m49:,DZA
+Africa,m49:2,Northern Africa,m49:15,,m49:,EGY
+Africa,m49:2,Northern Africa,m49:15,,m49:,LBY
+Africa,m49:2,Northern Africa,m49:15,,m49:,MAR
+Africa,m49:2,Northern Africa,m49:15,,m49:,SDN
+Africa,m49:2,Northern Africa,m49:15,,m49:,TUN
+Africa,m49:2,Northern Africa,m49:15,,m49:,ESH
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,IOT
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,BDI
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,COM
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,DJI
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,ERI
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,ETH
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,ATF
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,KEN
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,MDG
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,MWI
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,MUS
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,MYT
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,MOZ
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,REU
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,RWA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,SYC
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,SOM
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,SSD
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,UGA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,TZA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,ZMB
+Africa,m49:2,Sub-Saharan Africa,m49:202,Eastern Africa,m49:14,ZWE
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,AGO
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,CMR
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,CAF
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,TCD
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,COG
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,COD
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,GNQ
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,GAB
+Africa,m49:2,Sub-Saharan Africa,m49:202,Middle Africa,m49:17,STP
+Africa,m49:2,Sub-Saharan Africa,m49:202,Southern Africa,m49:18,BWA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Southern Africa,m49:18,SWZ
+Africa,m49:2,Sub-Saharan Africa,m49:202,Southern Africa,m49:18,LSO
+Africa,m49:2,Sub-Saharan Africa,m49:202,Southern Africa,m49:18,NAM
+Africa,m49:2,Sub-Saharan Africa,m49:202,Southern Africa,m49:18,ZAF
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,BEN
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,BFA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,CPV
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,CIV
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,GMB
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,GHA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,GIN
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,GNB
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,LBR
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,MLI
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,MRT
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,NER
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,NGA
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,SHN
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,SEN
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,SLE
+Africa,m49:2,Sub-Saharan Africa,m49:202,Western Africa,m49:11,TGO
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,AIA
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,ATG
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,ABW
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,BHS
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,BRB
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,BES
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,VGB
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,CYM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,CUB
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,CUW
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,DMA
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,DOM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,GRD
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,GLP
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,HTI
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,JAM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,MTQ
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,MSR
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,PRI
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,BLM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,KNA
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,LCA
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,MAF
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,VCT
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,SXM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,TTO
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,TCA
+Americas,m49:19,Latin America and the Caribbean,m49:419,Caribbean,m49:29,VIR
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,BLZ
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,CRI
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,SLV
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,GTM
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,HND
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,MEX
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,NIC
+Americas,m49:19,Latin America and the Caribbean,m49:419,Central America,m49:13,PAN
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,ARG
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,BOL
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,BVT
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,BRA
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,CHL
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,COL
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,ECU
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,FLK
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,GUF
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,GUY
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,PRY
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,PER
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,SGS
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,SUR
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,URY
+Americas,m49:19,Latin America and the Caribbean,m49:419,South America,m49:5,VEN
+Americas,m49:19,Northern America,m49:21,,m49:,BMU
+Americas,m49:19,Northern America,m49:21,,m49:,CAN
+Americas,m49:19,Northern America,m49:21,,m49:,GRL
+Americas,m49:19,Northern America,m49:21,,m49:,SPM
+Americas,m49:19,Northern America,m49:21,,m49:,USA
+Asia,m49:142,Central Asia,m49:143,,m49:,KAZ
+Asia,m49:142,Central Asia,m49:143,,m49:,KGZ
+Asia,m49:142,Central Asia,m49:143,,m49:,TJK
+Asia,m49:142,Central Asia,m49:143,,m49:,TKM
+Asia,m49:142,Central Asia,m49:143,,m49:,UZB
+Asia,m49:142,Eastern Asia,m49:30,,m49:,CHN
+Asia,m49:142,Eastern Asia,m49:30,,m49:,HKG
+Asia,m49:142,Eastern Asia,m49:30,,m49:,MAC
+Asia,m49:142,Eastern Asia,m49:30,,m49:,PRK
+Asia,m49:142,Eastern Asia,m49:30,,m49:,JPN
+Asia,m49:142,Eastern Asia,m49:30,,m49:,MNG
+Asia,m49:142,Eastern Asia,m49:30,,m49:,KOR
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,BRN
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,KHM
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,IDN
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,LAO
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,MYS
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,MMR
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,PHL
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,SGP
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,THA
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,TLS
+Asia,m49:142,South-eastern Asia,m49:35,,m49:,VNM
+Asia,m49:142,Southern Asia,m49:34,,m49:,AFG
+Asia,m49:142,Southern Asia,m49:34,,m49:,BGD
+Asia,m49:142,Southern Asia,m49:34,,m49:,BTN
+Asia,m49:142,Southern Asia,m49:34,,m49:,IND
+Asia,m49:142,Southern Asia,m49:34,,m49:,IRN
+Asia,m49:142,Southern Asia,m49:34,,m49:,MDV
+Asia,m49:142,Southern Asia,m49:34,,m49:,NPL
+Asia,m49:142,Southern Asia,m49:34,,m49:,PAK
+Asia,m49:142,Southern Asia,m49:34,,m49:,LKA
+Asia,m49:142,Western Asia,m49:145,,m49:,ARM
+Asia,m49:142,Western Asia,m49:145,,m49:,AZE
+Asia,m49:142,Western Asia,m49:145,,m49:,BHR
+Asia,m49:142,Western Asia,m49:145,,m49:,CYP
+Asia,m49:142,Western Asia,m49:145,,m49:,GEO
+Asia,m49:142,Western Asia,m49:145,,m49:,IRQ
+Asia,m49:142,Western Asia,m49:145,,m49:,ISR
+Asia,m49:142,Western Asia,m49:145,,m49:,JOR
+Asia,m49:142,Western Asia,m49:145,,m49:,KWT
+Asia,m49:142,Western Asia,m49:145,,m49:,LBN
+Asia,m49:142,Western Asia,m49:145,,m49:,OMN
+Asia,m49:142,Western Asia,m49:145,,m49:,QAT
+Asia,m49:142,Western Asia,m49:145,,m49:,SAU
+Asia,m49:142,Western Asia,m49:145,,m49:,PSE
+Asia,m49:142,Western Asia,m49:145,,m49:,SYR
+Asia,m49:142,Western Asia,m49:145,,m49:,TUR
+Asia,m49:142,Western Asia,m49:145,,m49:,ARE
+Asia,m49:142,Western Asia,m49:145,,m49:,YEM
+Europe,m49:150,Eastern Europe,m49:151,,m49:,BLR
+Europe,m49:150,Eastern Europe,m49:151,,m49:,BGR
+Europe,m49:150,Eastern Europe,m49:151,,m49:,CZE
+Europe,m49:150,Eastern Europe,m49:151,,m49:,HUN
+Europe,m49:150,Eastern Europe,m49:151,,m49:,POL
+Europe,m49:150,Eastern Europe,m49:151,,m49:,MDA
+Europe,m49:150,Eastern Europe,m49:151,,m49:,ROU
+Europe,m49:150,Eastern Europe,m49:151,,m49:,RUS
+Europe,m49:150,Eastern Europe,m49:151,,m49:,SVK
+Europe,m49:150,Eastern Europe,m49:151,,m49:,UKR
+Europe,m49:150,Northern Europe,m49:154,,m49:,ALA
+Europe,m49:150,Northern Europe,m49:154,Channel Islands,m49:830,GGY
+Europe,m49:150,Northern Europe,m49:154,Channel Islands,m49:830,JEY
+Europe,m49:150,Northern Europe,m49:154,,m49:,DNK
+Europe,m49:150,Northern Europe,m49:154,,m49:,EST
+Europe,m49:150,Northern Europe,m49:154,,m49:,FRO
+Europe,m49:150,Northern Europe,m49:154,,m49:,FIN
+Europe,m49:150,Northern Europe,m49:154,,m49:,ISL
+Europe,m49:150,Northern Europe,m49:154,,m49:,IRL
+Europe,m49:150,Northern Europe,m49:154,,m49:,IMN
+Europe,m49:150,Northern Europe,m49:154,,m49:,LVA
+Europe,m49:150,Northern Europe,m49:154,,m49:,LTU
+Europe,m49:150,Northern Europe,m49:154,,m49:,NOR
+Europe,m49:150,Northern Europe,m49:154,,m49:,SJM
+Europe,m49:150,Northern Europe,m49:154,,m49:,SWE
+Europe,m49:150,Northern Europe,m49:154,,m49:,GBR
+Europe,m49:150,Southern Europe,m49:39,,m49:,ALB
+Europe,m49:150,Southern Europe,m49:39,,m49:,AND
+Europe,m49:150,Southern Europe,m49:39,,m49:,BIH
+Europe,m49:150,Southern Europe,m49:39,,m49:,HRV
+Europe,m49:150,Southern Europe,m49:39,,m49:,GIB
+Europe,m49:150,Southern Europe,m49:39,,m49:,GRC
+Europe,m49:150,Southern Europe,m49:39,,m49:,VAT
+Europe,m49:150,Southern Europe,m49:39,,m49:,ITA
+Europe,m49:150,Southern Europe,m49:39,,m49:,MLT
+Europe,m49:150,Southern Europe,m49:39,,m49:,MNE
+Europe,m49:150,Southern Europe,m49:39,,m49:,MKD
+Europe,m49:150,Southern Europe,m49:39,,m49:,PRT
+Europe,m49:150,Southern Europe,m49:39,,m49:,SMR
+Europe,m49:150,Southern Europe,m49:39,,m49:,SRB
+Europe,m49:150,Southern Europe,m49:39,,m49:,SVN
+Europe,m49:150,Southern Europe,m49:39,,m49:,ESP
+Europe,m49:150,Western Europe,m49:155,,m49:,AUT
+Europe,m49:150,Western Europe,m49:155,,m49:,BEL
+Europe,m49:150,Western Europe,m49:155,,m49:,FRA
+Europe,m49:150,Western Europe,m49:155,,m49:,DEU
+Europe,m49:150,Western Europe,m49:155,,m49:,LIE
+Europe,m49:150,Western Europe,m49:155,,m49:,LUX
+Europe,m49:150,Western Europe,m49:155,,m49:,MCO
+Europe,m49:150,Western Europe,m49:155,,m49:,NLD
+Europe,m49:150,Western Europe,m49:155,,m49:,CHE
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,AUS
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,CXR
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,CCK
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,HMD
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,NZL
+Oceania,m49:9,Australia and New Zealand,m49:53,,m49:,NFK
+Oceania,m49:9,Melanesia,m49:54,,m49:,FJI
+Oceania,m49:9,Melanesia,m49:54,,m49:,NCL
+Oceania,m49:9,Melanesia,m49:54,,m49:,PNG
+Oceania,m49:9,Melanesia,m49:54,,m49:,SLB
+Oceania,m49:9,Melanesia,m49:54,,m49:,VUT
+Oceania,m49:9,Micronesia,m49:57,,m49:,GUM
+Oceania,m49:9,Micronesia,m49:57,,m49:,KIR
+Oceania,m49:9,Micronesia,m49:57,,m49:,MHL
+Oceania,m49:9,Micronesia,m49:57,,m49:,FSM
+Oceania,m49:9,Micronesia,m49:57,,m49:,NRU
+Oceania,m49:9,Micronesia,m49:57,,m49:,MNP
+Oceania,m49:9,Micronesia,m49:57,,m49:,PLW
+Oceania,m49:9,Micronesia,m49:57,,m49:,UMI
+Oceania,m49:9,Polynesia,m49:61,,m49:,ASM
+Oceania,m49:9,Polynesia,m49:61,,m49:,COK
+Oceania,m49:9,Polynesia,m49:61,,m49:,PYF
+Oceania,m49:9,Polynesia,m49:61,,m49:,NIU
+Oceania,m49:9,Polynesia,m49:61,,m49:,PCN
+Oceania,m49:9,Polynesia,m49:61,,m49:,WSM
+Oceania,m49:9,Polynesia,m49:61,,m49:,TKL
+Oceania,m49:9,Polynesia,m49:61,,m49:,TON
+Oceania,m49:9,Polynesia,m49:61,,m49:,TUV
+Oceania,m49:9,Polynesia,m49:61,,m49:,WLF
+Antarctica,m49:Antarctica,,,,,ATA
+Americas,m49:19,Latin America and the Caribbean,m49:419,,,BES
+Americas,m49:19,Latin America and the Caribbean,m49:419,,,ANT
+Asia,m49:142,Eastern Asia,m49:30,,,HKG
+Asia,m49:142,Eastern Asia,m49:30,,,MAC
+Asia,m49:142,Eastern Asia,m49:30,,,TWN
+Europe,m49:150,Southern Europe,m49:39,,,XKX
+Europe,m49:150,Southern Europe,m49:39,,,CSG

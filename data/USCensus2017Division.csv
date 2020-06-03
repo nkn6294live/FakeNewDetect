@@ -1,0 +1,10 @@
+id,name,parentId
+US.1.1,New England Division,US.1
+US.1.2,Middle Atlantic Division,US.1
+US.2.3,East North Central Division,US.2
+US.2.4,West North Central Division,US.2
+US.3.5,South Atlantic Division,US.3
+US.3.6,East South Central Division,US.3
+US.3.7,West South Central Division,US.3
+US.4.8,Mountain Division,US.4
+US.4.9,Pacific Division,US.4
