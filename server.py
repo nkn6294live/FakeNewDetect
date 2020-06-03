@@ -2,11 +2,15 @@ from json import dumps
 from bottle import route, run, response, static_file, get, post, request
 from GraphSearch import GraphSearch
 
-@get("/")
+@get("/FD")
 def get_index():
     return static_file("index.html", root="static")
 
-@route('/api/fakenew/check', method='POST')
+@get("/FD/view")
+def get_view():
+    return static_file("index.html", root="static")
+
+@route('/FD/api/fakenew/check', method='POST')
 def do_login():
     inputText = request.forms.get('inputText')
     response.content_type = 'application/json'

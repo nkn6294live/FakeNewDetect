@@ -327,7 +327,7 @@ class GraphSearch:
 
         # TODO update weight
         len_origins = len(origins)
-        default_weight = 1.0 / len_origins
+        default_weight = (1.0 / len_origins) if len_origins > 0 else 0.0
         for index in range(len_origins):
             weights.append(default_weight)
 
